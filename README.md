@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left"> :grey_question: I am a front-end React developer that skilled in developing interactive user interfaces.<br>:lock:I have a passion for creating user-friendly and functional web applications that look great. I believe in writing clean and structured code to ensure maximum compatibility and performance. <br>:zap:I am highly motivated, organized, and able to work well both independently and as part of a team. <br>:hourglass_flowing_sand: I am committed to staying up to date with the latest technologies and trends in web development to ensure the best outcomes.</p>
+<p align="left"> :grey_question: I am a front-end React developer that skilled in developing interactive user interfaces.<br>:lock:I have a passion for creating user-friendly and functional web applications that look great. I believe in writing clean and structured code to         ensure maximum compatibility and performance. <br>:zap:I am highly motivated, organized, and able to work well both independently and as part of a team. <br>:hourglass_flowing_sand: I am committed to staying up to date with the latest technologies and trends in web development to ensure the best outcomes.</p>
 
 ###
 
@@ -37,20 +37,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="52" alt="slack logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo"  />
 </div>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/furkan-evin/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/furkanevin0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="40" alt="instagram logo"  />
   </a>
-  <a href="E x a#8965" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="40" alt="discord logo"  /> E x a#8965
   </a>
 </div>
 

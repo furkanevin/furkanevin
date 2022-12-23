@@ -11,12 +11,13 @@
 <p align="left"> :grey_question: I am a front-end React developer that skilled in developing interactive user interfaces.<br>:lock:I have a passion for creating user-friendly and functional web applications that look great. I believe in writing clean and structured code to         ensure maximum compatibility and performance. <br>:zap:I am highly motivated, organized, and able to work well both independently and as part of a team. <br>:hourglass_flowing_sand: I am committed to staying up to date with the latest technologies and trends in web development to ensure the best outcomes.</p>
 
 ###
-
+<p align="left">Stats</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=furkanevin" height="150" alt="stats graph"  />
 
 ###
-
+<p align="left">Tech Stack</p>
+  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -38,7 +39,7 @@
 </div>
 
 ###
-
+<p align="left">Socials</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/furkan-evin/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="40" alt="linkedin logo"  />
@@ -52,7 +53,7 @@
 </div>
 
 ###
-
+<p align="left">Visitors</p>
 <div align="center">
   <img src="https://profile-counter.glitch.me/furkanevin/count.svg?"  />
 </div>

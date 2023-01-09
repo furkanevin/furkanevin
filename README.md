@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img height="200" src="https://media3.giphy.com/media/gk7BbBTgH9fcQ/giphy.gif?cid=790b76116f0bfe111ca88653ff68a56b95ff43756f89c341&rid=giphy.gif&ct=g"  />
-</div>
+</div> -->
 
 ###
 

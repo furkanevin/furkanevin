@@ -57,9 +57,6 @@
 </div>
 
 ###
-<p align="left">Visitors</p>
 <div align="center">
   <img src="https://profile-counter.glitch.me/furkanevin/count.svg?"  />
 </div>
-
-###
